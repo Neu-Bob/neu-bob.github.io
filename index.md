@@ -3,7 +3,6 @@ layout: page
 title: "Resume"
 class: resume   # used by our CSS below
 ---
-
 <div class="download">
   <a href="/Bob%20Neubaum%20925r.2.pdf" download>Download PDF Version</a>
 </div>
