@@ -12,9 +12,8 @@ class: resume
 </div>
 
 
-
 <div class="download">
-  <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">Connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
 </div>
 
 <div class="download">
