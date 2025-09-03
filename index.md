@@ -1,6 +1,13 @@
 ---
 title: ""
 ---
+
+<p>
+  <a href="/Bob%20Neubaum%20925r.2.pdf" download>📄 Download Resume (PDF)</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">🔗 LinkedIn</a>
+</p>
+
 <p>
   <a class="btn btn--primary" href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
   <a class="btn" href="/Bob%20Neubaum%20925r.2.pdf" download>Download PDF</a>
