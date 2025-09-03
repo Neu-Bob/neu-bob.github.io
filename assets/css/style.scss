@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+/* Centered narrow content like your original */
+.page-content .wrapper { max-width: 820px; }
+
+/* Resume-specific tweaks matching the old inline styles */
+.resume h1, .resume h2, .resume h3 { color: #004080; margin-bottom: 0; }
+.resume h1 { font-size: 32px; text-align: center; }
+.resume h2 { font-size: 22px; margin-top: 30px; }
+.resume h3 { font-size: 18px; margin-top: 15px; }
+.resume p, .resume li { font-size: 15px; }
+.resume .contact { text-align: center; margin-bottom: 20px; }
+.resume .contact a { color: #004080; text-decoration: none; }
+.resume ul { margin-top: 5px; }
+.resume .role { font-weight: 700; }
+.resume .company { font-style: italic; }
+.resume .download { margin: 20px 0; text-align: center; }
+.resume .download a {
+  background: #004080; color: #fff; padding: 8px 14px;
+  border-radius: 6px; text-decoration: none; font-weight: bold;
+}
+.resume .download a:hover { background: #0066cc; }
