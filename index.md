@@ -23,7 +23,7 @@ Customer-focused technical leader with experience across building automation, Io
 
 ### Professional Experience
 
-### <span class="role">Senior Product Manager | General Contractor & Specifier Engagement</span>  
+#### <span class="role">Senior Product Manager | General Contractor & Specifier Engagement</span>  
 <span class="company">Honeywell International – Honeywell Building Solutions, Atlanta, Georgia | Aug 2024 – Present</span>
 
 Driving engagement strategies for specifiers and general contractors in the Building Solutions product line, using market insights and Voice of Customer data to optimize specification rates, boost win rates, and strengthen competitive market position. Partner closely with marketing, sales, and operations to deliver integrated go-to-market execution, cohesive brand messaging, and high-impact demand generation.
@@ -33,7 +33,7 @@ Driving engagement strategies for specifiers and general contractors in the Buil
 - Partnered with marketing to deliver an integrated campaign that increased visibility and competitive positioning across the Building Automation portfolio.
 - Streamlined spec-to-delivery process by creating cross-functional feedback loops with operations and product management.
 
-### <span class="role">Senior Offering Manager | Marketplace, Developer Engagement & Subscription Enablement</span>  
+#### <span class="role">Senior Offering Manager | Marketplace, Developer Engagement & Subscription Enablement</span>  
 <span class="company">Tridium / Honeywell Connected Enterprise, Atlanta, Georgia | Jun 2019 – Aug 2024</span>
 
 Drove strategy and execution for Tridium’s IoT ecosystem, subscription business models, and developer engagement. Spearheaded initiatives that scaled partner adoption, expanded recurring revenue streams, and improved customer experience across marketplace and subscription programs. Partnered cross-functionally with product, sales, marketing, and executive leadership to align go-to-market strategy with long-term enterprise goals.
@@ -42,7 +42,7 @@ Drove strategy and execution for Tridium’s IoT ecosystem, subscription busines
 - Drove transition from perpetual licensing to subscription models by building the systems and frameworks to enable adoption.
 - Scaled marketplace performance to ~9k monthly visitors (+16% YoY), signup conversion (+20% YoY), order value (+114% YoY), and order count (+128% YoY) in 2024 YTD.
 
-### <span class="role">Director, PTC Ecosystem Programs</span>  
+#### <span class="role">Director, PTC Ecosystem Programs</span>  
 <span class="company">PTC, Exton, Pennsylvania | Sep 2018 – May 2019</span>
 
 Led expansion of the ThingWorx Marketplace into the full PTC product portfolio, leveraging Technology, OEM, and Services Partners to showcase success stories and accelerators. Focused on driving product adoption and creating a platform network effect to extend functionality and increase usage of PTC products.
@@ -52,7 +52,7 @@ Led expansion of the ThingWorx Marketplace into the full PTC product portfolio, 
 - Recognized with AppDirect’s Digital Hero Award for driving digital transformation within PTC.
 - Scaled marketplace adoption to 11,500+ monthly users and 310+ accelerators.
 
-### <span class="role">Director, ThingWorx Ecosystem Programs</span>  
+#### <span class="role">Director, ThingWorx Ecosystem Programs</span>  
 <span class="company">PTC, Exton, Pennsylvania | Mar 2015 – Aug 2018</span>
 
 Led strategy and execution of the ThingWorx Marketplace program to build a platform network effect across partners, customers, and product teams. Applied agile practices to define capabilities, manage development activities across internal and external resources, and oversee ongoing platform maintenance.
@@ -62,7 +62,7 @@ Led strategy and execution of the ThingWorx Marketplace program to build a platf
 - Defined functional requirements for the Marketplace site to align with partner and customer needs.
 - Directed QA processes and managed a global cross-functional team.
 
-### <span class="role">IIOT Technical Sales Engineer</span>  
+#### <span class="role">IIOT Technical Sales Engineer</span>  
 <span class="company">PTC, Exton, Pennsylvania | Apr 2014 – Feb 2015</span>
 
 Delivered pre-sales technical expertise for complex IoT opportunities in the direct sales channel. Partnered with sales teams to align customer goals with product capabilities and collaborated with Product Management to influence the roadmap.
@@ -70,7 +70,7 @@ Delivered pre-sales technical expertise for complex IoT opportunities in the dir
 - Delivered pre-sales technical expertise for complex IoT opportunities in the direct sales channel.
 - Collaborated with Product Management to influence roadmap improvements.
 
-### <span class="role">IoT Sales Engineering Lead, Mid-Atlantic Region</span>  
+#### <span class="role">IoT Sales Engineering Lead, Mid-Atlantic Region</span>  
 <span class="company">Sprint Business Services Group, King of Prussia, Pennsylvania | Mar 2009 – Mar 2014</span>
 
 Led technical and business support for complex Machine-to-Machine (M2M) opportunities across all sales channels, guiding customers from evaluation through implementation and targeting partnerships that impacted national revenue goals.
@@ -79,7 +79,7 @@ Led technical and business support for complex Machine-to-Machine (M2M) opportun
 - Guided customers in developing requirements and end-to-end solutions (CDMA, EVDO, LTE, GSM, PaaS, VPN to cloud).
 - Secured multiple premier regional accounts and achieved 17 consecutive quarters of revenue growth.
 
-### <span class="role">Solutions Engineer</span>  
+#### <span class="role">Solutions Engineer</span>  
 <span class="company">Sprint Business Services Group, King of Prussia, PA | Jan 2000 – Feb 2014</span>
 
 Delivered pre- and post-sales technical support by qualifying solution fit and feasibility, coordinating resources for successful delivery, and documenting solution use cases.
