@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 class: resume
 ---
 # Bob Neubaum
