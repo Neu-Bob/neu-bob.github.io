@@ -12,7 +12,7 @@ class: resume
 </div>
 
 
-##### Contact
+#### Contact
 <div class="contact">
   Acworth, Georgia · 215-431-9849 · <a href="mailto:Bob@Neubaum.com">Bob@Neubaum.com</a><br>
 </div>
