@@ -19,6 +19,9 @@ class: resume
 
 
 
+
+
+
 ### Professional Summary
 Customer-focused technical leader with experience across building automation, IoT platforms, and digital ecosystems. Proven ability to align technical strategy with business needs to deliver scalable, revenue-generating solutions that delight customers by identifying real-world needs and delivering intuitive, high-impact product and solutions that exceed expectations.
 
