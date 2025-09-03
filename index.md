@@ -6,8 +6,6 @@ toc: false
 classes: resume
 header: false
 ---
-
-## Bob Neubaum
 <p>
   <a class="btn btn--primary" href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
   <a class="btn" href="/Bob%20Neubaum%20925r.2.pdf" download>Download PDF</a>
@@ -16,7 +14,6 @@ header: false
 ### Contact
 <div class="contact">
   Acworth, Georgia · 215-431-9849 · <a href="mailto:Bob@Neubaum.com">Bob@Neubaum.com</a><br>
-  <a href="https://linkedin.com/in/bobneubaum">linkedin.com/in/bobneubaum</a>
 </div>
 
 ## Professional Summary
