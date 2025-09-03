@@ -7,7 +7,6 @@ classes: resume
 header: false
 ---
 
-
 ### Bob Neubaum
 <p>
   <a class="btn btn--primary" href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
