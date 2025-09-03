@@ -1,0 +1,19 @@
+title: "Bob Neubaum"
+description: "Portfolio / resume"
+url: "https://neu-bob.github.io"
+
+# Use GitHub’s default Jekyll theme
+theme: minima
+
+# If you want to try a remote theme later, uncomment below:
+# remote_theme: "mmistakes/minimal-mistakes@latest"
+# plugins:
+#   - jekyll-remote-theme
+
+# Minima options
+show_excerpts: false
+
+# Simple top navigation
+nav:
+  - title: "Home"
+    url: "/"
