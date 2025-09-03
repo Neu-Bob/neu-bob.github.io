@@ -11,10 +11,10 @@ title: ""
   Acworth, Georgia · 215-431-9849 · <a href="mailto:Bob@Neubaum.com">Bob@Neubaum.com</a><br>
 </div>
 
-## Professional Summary
+### Professional Summary
 Customer-focused technical leader with experience across building automation, IoT platforms, and digital ecosystems. Proven ability to align technical strategy with business needs to deliver scalable, revenue-generating solutions that delight customers by identifying real-world needs and delivering intuitive, high-impact product and solutions that exceed expectations.
 
-## Professional Experience
+### Professional Experience
 
 ### <span class="role">Senior Product Manager | General Contractor & Specifier Engagement</span>  
 <span class="company">Honeywell International – Honeywell Building Solutions, Atlanta, Georgia | Aug 2024 – Present</span>
