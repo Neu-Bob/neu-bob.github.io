@@ -8,10 +8,10 @@ title: ""
   <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">🔗 LinkedIn</a>
 </p>
 
-<p>
-  <a class="btn btn--primary" href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
-  <a class="btn" href="/Bob%20Neubaum%20925r.2.pdf" download>Download PDF</a>
-</p>
+<style>
+.actions a{display:inline-block;padding:8px 12px;border-radius:6px;text-decoration:none;margin-right:8px;background:#0366d6;color:#fff}
+.actions a.secondary{background:#2ea44f}
+</style>
 
 ### Contact
 <div class="contact">
