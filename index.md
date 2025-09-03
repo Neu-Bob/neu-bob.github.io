@@ -3,7 +3,7 @@ title: ""
 ---
 
 <p>
-  <a href="/Bob%20Neubaum%20925r.2.pdf" download> Download Resume (PDF)</a>
+  <a href="/Bob%20Neubaum%20925r.2.pdf" download>📄 Download Resume (PDF)</a>
   &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">🔗 LinkedIn</a>
 </p>
