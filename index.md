@@ -3,18 +3,6 @@ layout: page
 title: ""
 class: resume
 ---
-<div class="download">
-  <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
-</div>
-
-<div class="download">
-  <a href="/Bob%20Neubaum%20925r.2.pdf" download>Download PDF Version</a>
-</div>
-
-#### Contact
-<div class="contact">
-  Acworth, Georgia · 215-431-9849 · <a href="mailto:Bob@Neubaum.com">Bob@Neubaum.com</a><br>
-</div>
 
 <div class="download">
   <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
@@ -23,7 +11,6 @@ class: resume
 <div class="download">
   <a href="/Bob%20Neubaum%20925r.2.pdf" download>Download PDF Version</a>
 </div>
-
 
 #### Contact
 <div class="contact">
