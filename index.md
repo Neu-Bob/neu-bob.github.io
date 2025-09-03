@@ -1,16 +1,12 @@
 ---
 layout: page
-title: "Resume"
 class: resume
 ---
-
 # Bob Neubaum
-
 <div class="contact">
   Acworth, Georgia · 215-431-9849 · <a href="mailto:Bob@Neubaum.com">Bob@Neubaum.com</a><br>
   <a href="https://linkedin.com/in/bobneubaum">linkedin.com/in/bobneubaum</a>
 </div>
-
 
 <div class="download">
   <a href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
