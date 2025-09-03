@@ -1,10 +1,5 @@
 ---
-layout: single
 title: ""
-author_profile: false
-toc: false
-classes: resume
-header: false
 ---
 <p>
   <a class="btn btn--primary" href="https://www.linkedin.com/in/bobneubaum" target="_blank">LinkedIn</a>
